@@ -1,0 +1,162 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@media (max-width: 768px) {
+    nav {
+        height: 6rem;
+        margin-bottom: 3rem;
+        /* width: 100%; */
+    }
+
+    nav ul li a {
+        font-size: 1rem;
+    }
+    
+    section {
+        width: 100%;
+    }
+
+    .card {
+        display: block;
+        margin: 20px 10px;
+    }
+
+    .card img {
+        width: 100%;
+        height: 100%;
+    }
+
+    .card details {
+        width: 100%;
+    }
+
+    .card details summary {
+        font-size: 16px;
+    }
+
+    .card details q {
+        font-size: 14px;
+    }
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.header {
+    display: flex;
+    margin: auto;
+    width: 100%;
+    background-color: #8d261d;
+}
+
+.list {
+    display: flex;
+    padding-right: 4rem;
+    width: 100%;
+    justify-content: flex-end;
+    padding-top:40px;
+    padding-bottom: 40px;
+    list-style: none;
+    margin: auto;
+    font-weight: bold;
+}
+
+.list ul {
+    list-style: none;
+    display: flex
+}
+
+.list li {
+    margin-right: 1.5rem;
+    font-size: 1.2rem;
+}
+
+.list a {
+    text-decoration: none;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.folder {
+    background-color: #F5EBE0;
+    padding: 2rem auto;
+
+
+}
+
+.folder h1 {
+
+}
+
+.folder blockquote q {
+    font-style: italic;
+
+}
+
+.cardSection {
+    margin: 2rem auto;
+    display: block;
+    max-width: 1024px;
+    width: 100%;
+}
+
+.card {
+    display: inline-block;
+    margin: 10px;
+    border: 1px solid #000;
+    max-height: 100%;
+    vertical-align: top;
+}
+
+.card img {
+    display: block;
+    width: 300px;
+    height: 300px;
+}
+
+.card details {
+    width: 300px;
+    height: auto;
+    display: inline-block;    
+    text-align: justify;
+    padding: 13px 8px;
+
+}
+
+.card details summary {
+    font-size: 18px;
+    padding: 10px;
+}
+
+.card details q {
+    font-style: italic;
+}
+
+
+
+.anastaciaLivre {
+    background-color: #d2b14b;
+    height: 100%;
+}
+
+.footer {
+    font-size: 1rem;
+    text-align: center;
+    color: #fff;
+    background: #dc9903;  
+    height: 8vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer p {
+    font-size: 1.2rem;
+    font-weight: bold;
+
+}
