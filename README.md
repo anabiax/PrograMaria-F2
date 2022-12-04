@@ -1,6 +1,8 @@
-# Curso online eu progr{amo} #2 da [progra{m}aria](https://www.programaria.org/) 
+# Eu progr{amo} #Front-end 2 
 
+Curso online eu progr{amo} da [progra{m}aria](https://www.programaria.org/) realizado utilizando HTML, CSS e JS.
 ### O afeto é revolucionário 💜 
+                        A página busca retratar uma singela homenagem a um recorte específico de mulheres que me formaram moral e intelectualmente. 
 
 <ul>
     <li>semântica do HTML e descoberta de novas tags;</li>
@@ -23,9 +25,8 @@ Paleta de cores:
 #e2a02d;
 #e8b232;
 
--> trazer cit da Sueli Carneiro, Beatriz Nascimento, Marielle e Nilma Lino.
+
 -> verificar o uso da tag cite
--> arrumar a foto da beatriz nascimento, lélia e grada
 -> adc responsivo p/ mobile (PRINCIPALMENTE AJUSTAR A PARTE DE ANASTACIA)
 -> fazer o folder inteiro
 -> produzir texto p/ a seção da Anastacia 
