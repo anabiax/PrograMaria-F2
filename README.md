@@ -32,3 +32,4 @@ Paleta de cores:
 -> formatar seção da Anastacia
 -> texto sobre mim
 -> texto sobre os afetos envolvidos no movimento de sankofa-se(trazer img p/ embasar)
+
