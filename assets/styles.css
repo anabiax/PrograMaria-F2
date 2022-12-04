@@ -204,7 +204,6 @@ h3 {
     font-family: 'Varela Round', sans-serif;
     text-align: center;
     padding-top: 2rem;
-    margin-bottom: 2rem;
 } 
 
 .anastaciaLivre img {
@@ -212,23 +211,25 @@ h3 {
     align-items: center;
     border-radius: 2%;
     margin: auto;
+    padding-top: 2rem;
     display: block;
     margin-bottom: 3rem;
 }
 
 .sankofa {
-    background: #333;
     height: 80vh;
     width: 100%;
-    color: #fff;
+    color: #000;
     display: flex;
     align-items: center;
     flex-flow: row;
     justify-content: space-evenly;
 }
 
-.sankofa h2 {
-    position: absolute;
+.sankofa p {
+    font-size: 1.5rem;
+    text-align: justify;
+    padding-right: 6rem;
 }
 
 .footer {

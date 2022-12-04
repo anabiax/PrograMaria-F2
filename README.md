@@ -26,10 +26,7 @@ Paleta de cores:
 #e8b232;
 
 
--> verificar o uso da tag cite
 -> adc responsivo p/ mobile (PRINCIPALMENTE AJUSTAR A PARTE DE ANASTACIA)
--> fazer o folder inteiro
--> produzir texto p/ a seção da Anastacia 
 -> formatar seção da Anastacia
 -> texto sobre mim
 -> texto sobre os afetos envolvidos no movimento de sankofa-se(trazer img p/ embasar)
