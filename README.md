@@ -3,7 +3,7 @@
 Curso online eu progr{amo} da [progra{m}aria](https://www.programaria.org/) realizado utilizando HTML, CSS e JS.
 ### O afeto é revolucionário 💜 
                         A página busca retratar uma singela homenagem a um recorte específico de mulheres que me formaram moral e intelectualmente. 
-
+### itens de atenção:
 <ul>
     <li>semântica do HTML e descoberta de novas tags;</li>
 </ul>
@@ -14,20 +14,10 @@ Curso online eu progr{amo} da [progra{m}aria](https://www.programaria.org/) real
     tablet padrão vertical (max-width: 768px)
 </ul>
 
-
-
-Paleta de cores:
-#8d261d;
-#9f0100;
-#9D0400;
-#c96600;
-#dc9903;
-#e2a02d;
-#e8b232;
-
+### Link de acesso: 
+https://phenomenal-yeot-c94ab6.netlify.app/
 
 -> adc responsivo p/ mobile (PRINCIPALMENTE AJUSTAR A PARTE DE ANASTACIA)
--> formatar seção da Anastacia
--> texto sobre mim
--> texto sobre os afetos envolvidos no movimento de sankofa-se(trazer img p/ embasar)
+-> formatar texto da seção da Anastacia
+-> texto sobre os afetos envolvidos no movimento de sankofa-se
 
